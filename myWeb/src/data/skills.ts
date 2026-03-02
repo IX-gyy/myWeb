@@ -1,10 +1,7 @@
 export const skills = [
-  'Vue 3',
-  'TypeScript',
-  'Tailwind CSS',
+  'Vue3',
   'JavaScript',
-  'HTML5',
-  'CSS3',
-  'Responsive Design',
-  'Git'
+  'MySQL',
+  'Java',
+  'C++'
 ]
